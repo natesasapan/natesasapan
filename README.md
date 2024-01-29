@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Nate Sasapan!</h1>
 <h3 align="center">A passionate 4th year Computer Science Student at the University of Georgia</h3>
 
-- 🔭 I’m currently working on [Spotify Export]([https://github.com/natesasapan/spotify_export])
+- 🔭 I’m currently working on [Spotify Export](https://github.com/natesasapan/spotify_export)
 
 - 🌱 I’m currently learning **React, JavaScript, and SQL**
 
