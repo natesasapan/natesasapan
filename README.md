@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Nate Sasapan!</h1>
 <h3 align="center">A passionate 4th year Computer Science Student at the University of Georgia</h3>
 
-- 🔭 I’m currently working on [Spotify Export](https://github.com/natesasapan/spotify_export)
+- 🔭 I’m currently working on [Spotify Multitool](https://github.com/natesasapan/SpotifyMultitool)
 
-- 🌱 I’m currently learning **React, JavaScript, and SQL**
+- 🌱 I’m currently learning **JavaScript, R**
 
 - 👨‍💻 All of my projects are available at [https://github.com/natesasapan?tab=repositories](https://github.com/natesasapan?tab=repositories)
 
-- 💬 Ask me about **Java, Python, and HTML/CSS**
+- 💬 Ask me about **Java, Python, and O-OP**
 
 - 📫 How to reach me **natesasapan@gmail.com**
 
