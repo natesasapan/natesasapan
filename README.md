@@ -1,20 +1,20 @@
 <h1 align="center">Hello, I'm Nate Sasapan!</h1>
-<h3 align="center">A passionate 4th year Computer Science Student at the University of Georgia</h3>
+<h3 align="center">A passionate 5th year Computer Science Student at the University of Georgia</h3>
 
   
-- 🔭 I’m currently working on [Spotify Multitool](https://github.com/natesasapan/SpotifyMultitool)
+- 🔭 I’m currently working on [CineBook]((https://github.com/tsdaniels/cinema-ebooking))
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **Android Studio**
 
 - 💼 Check out my visual portfolio! - [Portfolio](https://natesasapan.github.io/natecv.github.io/index.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/natesasapan?tab=repositories](https://github.com/natesasapan?tab=repositories)
 
-- 💬 Ask me about **Java, Python, and O-OP**
+- 💬 Ask me about **Web Dev, Mobile Dev, and SDLC**
 
 - 📫 How to reach me **natesasapan@gmail.com**
 
-- ⚡ Fun fact **I love video games and basketball!**
+- ⚡ Fun fact **I love video games, basketball, and fishing!**
 
 **Due to the University of Georgia's Code of Conduct, I am not allowed to display my previous school projects. If you are an employer and would like to view these projects please do not hesitate to reach out to me on linkedin or through my email. Thanks!**
 
