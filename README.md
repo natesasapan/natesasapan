@@ -8,7 +8,7 @@
 
 - 💼 Check out my visual portfolio! - [Portfolio](https://natesasapan.github.io/natecv.github.io/index.html)
 
-- 👨‍💻 All of my projects are available at [https://github.com/natesasapan?tab=repositories](https://github.com/natesasapan?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/natesasapan?tab=repositories)
 
 - 💬 Ask me about **Web Dev, Mobile Dev, and SDLC**
 
