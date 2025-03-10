@@ -2,7 +2,7 @@
 <h3 align="center">A passionate 5th year Computer Science Student at the University of Georgia</h3>
 
   
-- 🔭 I’m currently working on [CineBook]((https://github.com/tsdaniels/cinema-ebooking))
+- 🔭 I’m currently working on [TailorThat!](https://github.com/natesasapan/tailor-that)
 
 - 🌱 I’m currently learning **Android Studio**
 
