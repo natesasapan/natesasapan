@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love video games, basketball, and fishing!**
 
-**Due to the University of Georgia's Code of Conduct, I am not allowed to display my previous school projects. If you are an employer and would like to view these projects please do not hesitate to reach out to me on linkedin or through my email. Thanks!**
+**Due to the University of Georgia's Code of Conduct, I am not allowed to display some of my previous school projects. If you are an employer and would like to view these projects please do not hesitate to reach out to me on linkedin or through my email. Thanks!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
