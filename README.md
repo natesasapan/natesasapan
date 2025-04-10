@@ -2,9 +2,9 @@
 <h3 align="center">A passionate 5th year Computer Science Student at the University of Georgia</h3>
 
   
-- 🔭 I’m currently working on [TailorThat!](https://github.com/natesasapan/tailor-that)
+- 🔭 I’m currently working on [newSPMultitool](https://github.com/natesasapan/newSPMultitool)
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **SvelteKit**
 
 - 💼 Check out my visual portfolio! - [Portfolio](https://natesasapan.github.io/natecv.github.io/index.html)
 
