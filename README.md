@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on [newSPMultitool](https://github.com/natesasapan/newSPMultitool)
 
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **Expo**
 
 - 💼 Check out my visual portfolio! - [Portfolio](https://natesasapan.github.io/natecv.github.io/index.html)
 
