@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Expo**
 
-- 💼 Check out my visual portfolio! - [Portfolio](natesasapan.me)
+- 💼 Check out my visual portfolio! - [Portfolio](https://natesasapan.me)
 
 - 👨‍💻 All of my projects are available at - [Repositories](https://github.com/natesasapan?tab=repositories)
 
