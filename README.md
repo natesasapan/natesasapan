@@ -2,9 +2,9 @@
 <h3 align="center">A passionate 5th year Computer Science Student at the University of Georgia</h3>
 
   
-- 🔭 I’m currently working on [newSPMultitool](https://github.com/natesasapan/newSPMultitool)
+- 🔭 I’m currently working on [NFL Elo Calculator](https://github.com/natesasapan/nfl_elo)
 
-- 🌱 I’m currently learning **Expo**
+- 🌱 I’m currently learning **Pandas**
 
 - 💼 Check out my visual portfolio! - [Portfolio](https://natesasapan.me)
 
